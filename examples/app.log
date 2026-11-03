@@ -1,0 +1,8 @@
+2026-11-03 09:00:00 INFO Aplicação iniciada
+2026-11-03 09:00:01 DEBUG Conexão com o banco aberta
+2026-11-03 09:00:02 INFO Pedido recebido
+2026-11-03 09:00:03 WARNING Estoque abaixo do mínimo
+2026-11-03 09:00:04 ERROR Falha ao consultar o serviço de entrega
+2026-11-03 09:00:05 ERROR Tempo limite na consulta
+2026-11-03 09:00:06 CRITICAL Banco de dados indisponível
+linha fora do formato esperado
